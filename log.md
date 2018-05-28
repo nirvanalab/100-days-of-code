@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: May 28,2018
+### Day 1: May 28,2018
 
 **Project** : Jagadam (Unity)
 
