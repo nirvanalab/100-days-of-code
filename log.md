@@ -8,7 +8,13 @@
 
 **Thoughts:** Adding bullet functionality was easy. Struggled with including the canvas & image and resizing the components to place in front of the gun.
 
+### Day 2: May 29,2018
 
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Added ammunition logic for the guns and added enemy robots with corresponding animation.
+
+**Thoughts:** : Pretty straightforward. The navmesh agent for the player didn't work as expected. Had to pass in OVRCameraRig instead of Player GameObject.
 
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
