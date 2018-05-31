@@ -16,6 +16,14 @@
 
 **Thoughts:** : Pretty straightforward. The navmesh agent for the player didn't work as expected. Had to pass in OVRCameraRig instead of Player GameObject.
 
+### Day 3: May 30,2018
+
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Added enemy weapon logic and initial game play logic.
+
+**Thoughts:** : Couldn't figure out the enemy animation when weapon fires yet. Initial game play logic for now only affects the player health.
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 
