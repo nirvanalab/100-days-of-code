@@ -24,6 +24,14 @@
 
 **Thoughts:** : Couldn't figure out the enemy animation when weapon fires yet. Initial game play logic for now only affects the player health.
 
+### Day 4: May 31,2018
+
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Added more game play logic. Trying to handle the logic where bullets affect enemys health
+
+**Thoughts:** : There are misc bugs, for example the bullets are not appearing properly. The enemy missiles are not shooting as expected. Need to work on it a bit more
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 
