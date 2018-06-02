@@ -32,6 +32,14 @@
 
 **Thoughts:** : There are misc bugs, for example the bullets are not appearing properly. The enemy missiles are not shooting as expected. Need to work on it a bit more
 
+### Day 5: June 1,2018
+
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Started work on the ammo and  health pickup UI annd logic
+
+**Thoughts:** : Encountering issues related to trigger collider. Trying to figure out how to handle the player andd ammo health trigger collission
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 
