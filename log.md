@@ -40,6 +40,14 @@
 
 **Thoughts:** : Encountering issues related to trigger collider. Trying to figure out how to handle the player andd ammo health trigger collission
 
+### Day 6: June 2,2018
+
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Implemented Pickup spawn logic. Fixed ammo pickup logic
+
+**Thoughts:** : Implemented the ammo pickup logic to the hand controllers instead of the player.
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 
