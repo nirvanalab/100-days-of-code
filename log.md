@@ -48,6 +48,14 @@
 
 **Thoughts:** : Implemented the ammo pickup logic to the hand controllers instead of the player.
 
+### Day 7: June 3,2018
+
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Implemented lot of Gameplay logic, added main menu ui and interaction
+
+**Thoughts:** : Figuring out the UI handling with VRTK took quite some time. The bug fixing was tedious
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 
