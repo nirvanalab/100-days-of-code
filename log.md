@@ -56,6 +56,14 @@
 
 **Thoughts:** : Figuring out the UI handling with VRTK took quite some time. The bug fixing was tedious
 
+### Day 8: June 4,2018
+
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Implemented Background music, game won and game lost scenes
+
+**Thoughts:** :Implemented the simpler version of the scenes
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 
