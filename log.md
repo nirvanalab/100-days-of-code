@@ -64,6 +64,14 @@
 
 **Thoughts:** :Implemented the simpler version of the scenes
 
+### Day 9: June 5,2018
+
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Implemented Zombie enemy and the radioactive weapon
+
+**Thoughts:** :Pretty straightforward
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 
