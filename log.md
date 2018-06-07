@@ -72,6 +72,14 @@
 
 **Thoughts:** :Pretty straightforward
 
+### Day 10: June 6,2018
+
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Started work on a custom fragment shader
+
+**Thoughts:** :Pretty tough to understand
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 
