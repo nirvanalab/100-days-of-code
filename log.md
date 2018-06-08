@@ -80,6 +80,12 @@
 
 **Thoughts:** :Pretty tough to understand
 
+### Day 11: June 7,2018
+
+**Project** : Jagadam (Unity)
+
+**Today's Progress**: Incorporated custom Shader in the game. Fixed background music cloning
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 
