@@ -86,14 +86,14 @@
 
 **Today's Progress**: Incorporated custom Shader in the game. Fixed background music cloning
 
-### Day 11: June 8,2018
+### Day 12: June 8,2018
 
 **Project** : Jagadam (Unity)
 
 **Today's Progress**: Implemented optimization, fps checks and project scope document.
 
 
-### Day 12: June 10,2018
+### Day 13: June 10,2018
 
 **Project** : HellGo (Unity)
 
