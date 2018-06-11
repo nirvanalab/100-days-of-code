@@ -92,6 +92,14 @@
 
 **Today's Progress**: Implemented optimization, fps checks and project scope document.
 
+
+### Day 12: June 10,2018
+
+**Project** : HellGo (Unity)
+
+**Today's Progress**: Setup Oculus Go andd created a hello world project with simple cubes.
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
+2. [HelloGo](https://github.com/nirvanalab/HelloGo)
 
