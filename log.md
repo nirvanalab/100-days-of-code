@@ -99,6 +99,13 @@
 
 **Today's Progress**: Setup Oculus Go andd created a hello world project with simple cubes.
 
+
+### Day 14: June 10,2018
+
+**Project** : HellGo (Unity)
+
+**Today's Progress**: Continued Oculus Go explorations
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 2. [HelloGo](https://github.com/nirvanalab/HelloGo)
