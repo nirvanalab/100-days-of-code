@@ -112,6 +112,12 @@
 
 **Today's Progress**: Explored Chrome Extensions functionality
 
+### Day 16: June 13,2018
+
+**Project** : Misc
+
+**Today's Progress**: Continued Exploring Chrome Extensions functionality
+
 **Link(s) to work**
 1. [Jagadam](https://github.com/nirvanalab/Jagadam)
 2. [HelloGo](https://github.com/nirvanalab/HelloGo)
